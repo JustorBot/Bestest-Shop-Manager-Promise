@@ -1,0 +1,1 @@
+{"apple": {"price": 5.0, "stock": 1650}, "banana": {"price": 10.0, "stock": 488}, "mango": {"price": 25.0, "stock": 500}, "pear": {"price": 15.0, "stock": 890}, "grapes": {"price": 10.0, "stock": 4900}, "pineapple": {"price": 40.0, "stock": 160}, "biltong": {"price": 100.0, "stock": 1000}}
